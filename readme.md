@@ -3,6 +3,7 @@
    https://github.com/onerciller/laravel5-on-shared-hosting.git
  - composer install
  - php artisan key:generate
+ 
  afterwards, You can run it wherever you want
 
 ##Usage
