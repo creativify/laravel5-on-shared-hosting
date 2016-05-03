@@ -6,7 +6,7 @@
 
 ##Usage
 
-    url link should be like instance in belove
+    Url link should be like instance in following
     
 ```html
  <script src="{{url('assets/js/bootstrap.min.js')}}"></script>
